@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+starfile
+# optional: --target_mrc
+mrcfile
+# optional: --view3d plotly (3D target mesh needs scikit-image)
+plotly
+scikit-image

@@ -1,0 +1,20 @@
+# data (force-add example files with: git add -f)
+*.mrc
+*.rec
+*.st
+*.star
+*.pdb
+*.cif
+*.h5
+*.npy
+*.npz
+
+# outputs
+knn_out/
+*_out/
+
+# python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
