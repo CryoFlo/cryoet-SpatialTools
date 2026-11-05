@@ -1,0 +1,4 @@
+numpy
+starfile
+mrcfile
+# plus IMOD (point2model), not pip-installable
